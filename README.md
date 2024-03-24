@@ -39,3 +39,9 @@ This will help you understand how you may give instructions on setting up your p
 nstallation Steps
 Option 1: Installation from GitHub
 Follow these steps to install and set up the project directly from the GitHub repository:
+Clone the Repository
+
+Open your terminal or command prompt.
+Navigate to the directory where you want to install the project.
+Run the following command to clone the GitHub repository
+
