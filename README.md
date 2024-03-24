@@ -90,7 +90,7 @@ Follow these steps to install and set up the project directly from the GitHub re
      ```
 
 6. **Access the Project**
-   - Open a web browser or the appropriate client to access the project.
+   - Open a web browser or the appropriate client to access the project.  http://localhost:8080/
   
 
 ## Contributing
